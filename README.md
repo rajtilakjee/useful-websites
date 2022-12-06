@@ -163,6 +163,7 @@ A carefully curated list of amazingly useful websites.
 ## Privacy
 
 - [Terms of Service, Didn't Read](https://tosdr.org/) - Summarises the terms and conditions for most websites and ranks them on privacy.
+- [12ft Ladder](https://12ft.io/) - Remove the paywall from websites and gets you access to articles.
 
 # Q
 
