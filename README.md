@@ -19,7 +19,7 @@ A carefully curated list of amazingly useful websites.
 - [JustBeamIt](https://justbeamit.com/) - Drag-and-drop file transfer.
 - [dribble](https://dribbble.com/) - Showcase of design portfolio.
 - [loading.io](https://loading.io/) - Customizable free loading SVGs (animated and static both).
-- [DaFont](https://www.dafont.com/)
+- [DaFont](https://www.dafont.com/) - Awesome collection of free fonts.
 - [RemoveBg](https://www.remove.bg/) - Remove background for images for free.
 - [Image Extractor](https://extract.pics/) - Extract images from any public website by using their URL.
 - [ImgOps](https://imgops.com) - Reverse search, edit, effects, hidden data, convert images.
@@ -48,3 +48,6 @@ A carefully curated list of amazingly useful websites.
 - [Student.com](https://www.student.com/) - Cheap accomodations for students based on college, city, or property.
 - [Panzoid](https://panzoid.com/) - Browser-based video editor.
 - [WallHaven](https://wallhaven.cc/) - Collection of wallpapers.
+- [GetHuman](https://gethuman.com/) - Get a rep on the phone faster & get better help.
+- [Cheap Shark](https://www.cheapshark.com/) - Compare PC game prices across multiple stores and find the best deals.
+- []()
