@@ -50,4 +50,20 @@ A carefully curated list of amazingly useful websites.
 - [WallHaven](https://wallhaven.cc/) - Collection of wallpapers.
 - [GetHuman](https://gethuman.com/) - Get a rep on the phone faster & get better help.
 - [Cheap Shark](https://www.cheapshark.com/) - Compare PC game prices across multiple stores and find the best deals.
-- []()
+- [Radio Garden](http://radio.garden/) - Listen to radio around the world.
+- [Libgen](https://libgen.is/) - Download almost any textbook as e-copy.
+- [Pika Pika Deals](https://pikapikadeals.com/) - Discover shopping deals & discounts across Amazon,Target & Bestbuy.
+- [Sci-Hub](https://sci-hub.mksa.top/) - Provide mass & public access to research papers.
+- [FutureMe](https://www.futureme.org/) - Write a letter to your future self.
+- [Old Games Download](https://oldgamesdownload.com/) - Rediscover hundreds of lost games from your childhood released on various platforms.
+- [FlightRadar24](https://www.flightradar24.com/) - Find out where that plane, jet, or helicopter is going.
+- [Unsplash](https://unsplash.com/) - Tons of free-to-use images of damn near everything.
+- [MyAbandonware](https://www.myabandonware.com/) - Download old games from the 70's to the 00's.
+- [ADS-B Exchange](https://globe.adsbexchange.com/) - Track aircrafts live.
+- [TechURLs](https://techurls.com/) - Tech news aggregator.
+- [Canva Color Palette Generator](https://www.canva.com/colors/color-palette-generator/) - Generate color palettes.
+- [Create Transparent PNGs](https://onlinepngtools.com/create-transparent-png) - World's simplest online Portable Network Graphics transparency maker.
+- [ASCII Face Generator](https://lenny-face-generator.textsmilies.com/) - Create a Lenny Face.
+- [This Person Does Not Exist](https://thispersondoesnotexist.com/) - Makes a new person every time you refresh. Not real person, and the photo can be used anywhere IIRC.
+- [This Cat Does Not Exist](https://thiscatdoesnotexist.com/) - Generate photos of cats that do not exist.
+- 
